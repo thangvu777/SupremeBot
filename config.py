@@ -1,7 +1,7 @@
 ###################################################################
 # Currently as of 07/08/2019
 # Supreme allows for 2019 - 2029 as card expiration years
-# In XPATH, that's 1 - 10 in the xpath selector for that drop down.
+# In XPATH, that's 1 - 11 in the xpath selector for that drop down.
 # [1:2019, 2:2020, ..., 11: 2029]
 # Author: Thang Vu
 ###################################################################
