@@ -1,4 +1,7 @@
 Author: Thang Vu
+
+DEMO: https://www.youtube.com/watch?v=xXgr35VIONU&feature=youtu.be
+
 INSTRUCTIONS FOR SUPREME BOT
 #Get sublime text, vim, or use your current text editor to modify config.py to 
 #modify your order information
