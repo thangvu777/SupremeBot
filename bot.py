@@ -29,7 +29,7 @@ def timefunction(method):
 
 #time order function
 @timefunction
-#pass in dictionary
+#pass in dictionaries
 def order(k, k2):
 	#Get url from key
 	driver.get(k['product_url'])
